@@ -21,11 +21,14 @@ frutas = ['manzana', 'naranja', 'pera']
 frutas.append('zanahoria')
 print(frutas)
 
+
 ###Dato por teclado
 
 Dato = input()
+
 
 print("tu nombre es:", Dato, "\nHola", Dato)
 
 Data = input()
 print("la suma de un numero:", int(Data)+5)
+

@@ -1,0 +1,9 @@
+def mensaje():
+    print('valor:1')
+    print('valor:2')
+
+
+def suma(num1, num2):
+    Resultado = num1 + num2
+    return Resultado
+
