@@ -41,3 +41,4 @@ for movement in movements:
     x_pos += movement
 print(x_pos)
 
+

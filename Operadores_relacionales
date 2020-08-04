@@ -1,0 +1,12 @@
+Nombre = 'Isolde'
+Edad = 35
+
+
+print('hola {} tienes {} años'.format(Nombre, Edad))
+print(f'Hola,{Nombre}, tienes {Edad} años')
+
+nombre = input('digite su nombre:')
+print(f'hola,{nombre}')
+
+numero = int(input('digita un numero:'))
+print(f'el numero es {numero+1}')
